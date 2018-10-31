@@ -1,0 +1,26 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    font-size: 1rem;
+}
+
+nav.bg-primary {
+    background-color: blue !important;
+}
+
+
+/** Slider Styling **/
+.slider .jumbotron {
+    border-radius: 0;
+    background-color: blue;
+    color: #ffffff;
+}
+.slider .jumbotron h1 {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+.slider .jumbotron .btn {
+    border-width: 2px;
+}
+/** End Slider Styling **/
