@@ -34,7 +34,6 @@ nav.bg-primary {
 }
 .rksw-fture h2 {
     font-weight:300;
-
     margin-bottom: 32px;
 }
 .rksw-fture figure {
@@ -52,4 +51,22 @@ nav.bg-primary {
     padding: 2rem;
     width: 100%;
 }
+.rksw-fture figure img {
+    width: 100%
+}
 /** End Feature Styling **/
+
+/** Info Styling **/
+.rksw-info {
+    margin-bottom: 2rem
+}
+.rksw-info h3 {
+    font-weight:300;
+    margin-bottom: 1rem;
+}
+
+.rksw-info .list-group .list-group-item:hover, .rksw-info .list-group .list-group-item:focus {
+    background-color: #eae7ff
+}
+
+/** End Info Styling **/
